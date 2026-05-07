@@ -1,9 +1,6 @@
 
 Taller 4 - MovieLibrary
 
-Video de demostración
-[TALLER4_VIDEO.mp4](TALLER4_VIDEO.mp4)
-
 
 - ViewModel
 Es el encargado de guardar y manejar la información que muestra la pantalla.
